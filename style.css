@@ -351,11 +351,7 @@ body{
    
 }
 .rtx-head{
-    color: transparent;
-    background-image:url( https://i.giphy.com/HkEDr0jVekaZO.webp);
-    background-position: center center;
-  
-    -webkit-background-clip: text;
+    color:#fff;
     font-family: logofont;
     text-align: left;
     font-size: 5rem;
@@ -437,11 +433,7 @@ body{
    
 }
 .ryzen-head{
-    color: transparent;
-    background-image:url( https://i.giphy.com/HkEDr0jVekaZO.webp);
-    background-position: center center;
-  
-    -webkit-background-clip: text;
+    color: #fff;
     font-family: logofont;
     text-align: left;
     font-size: 5rem;
@@ -676,11 +668,7 @@ body{
 
 }
 .footer-text{
-    color: transparent;
-    background-image:url( https://i.giphy.com/HkEDr0jVekaZO.webp);
-    background-position: center center;
-  
-    -webkit-background-clip: text;
+    color: #fff;
     font-family: logofont;
     font-size: 2rem;
     
